@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Triple</string>
+    <string name="label_bear">Bear</string>
+    <string name="label_tiger">Tiger</string>
+    <string name="label_zebra">Zebra</string>
+    <string name="label_panda">Panda</string>
+</resources>
